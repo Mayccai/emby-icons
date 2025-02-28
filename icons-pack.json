@@ -1,0 +1,12 @@
+{
+  "icons": [
+    {
+      "name": "icon1",
+      "path": "icons/icon1.png"
+    },
+    {
+      "name": "icon2",
+      "path": "icons/icon2.png"
+    }
+  ]
+}
