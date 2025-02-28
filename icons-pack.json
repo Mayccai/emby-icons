@@ -1,12 +1,10 @@
 {
+  "name":emby-icons@mayccai
+  
   "icons": [
-    {
-      "name": "jingzhe",
-      "path": "icons/jingzhe.jpg"
-    },
-    {
-      "name": "icon2",
-      "path": "icons/icon2.png"
-    }
+
+      {"name": "jingzhe",      "url":"https://raw.githubusercontent.com/mayccai/emby-icons/main/icons/jingzhe.jpg"}
+
+    
   ]
 }
